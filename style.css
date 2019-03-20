@@ -1,9 +1,9 @@
   		@font-face {
-  	 		font-family: "Aileron-Regular";
+  	 		font-family: "Aileron Regular";
       			src: url("Aileron-Regular.otf") format("opentype");
 		}
 		@font-face {
-			font-family: "Sanchez-Regular";
+			font-family: "Sanchez Regular";
         		src: url("Sanchez-Regular.ttf") format("opentype");
 		}
    		body {
@@ -19,17 +19,17 @@
 			display: inline-block;	
 		}
 		h1 {
-			font-family: "Sanchez-Regular";
+			font-family: "Sanchez Regular";
 			font-size: 3em;
 		}
 		h3 {
-			font-family: "Sanchez-Regular";
+			font-family: "Sanchez Regular";
 			font-size:2em;
 		}
 		h2 {
-			font-family: "Aileron-Regular";
+			font-family: "Aileron Regular";
 		}
 		p {
-			font-family: "Aileron-Regular";
+			font-family: "Aileron Regular";
 			font-size: 1.5em;
     		}
