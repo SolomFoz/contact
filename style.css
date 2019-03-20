@@ -11,10 +11,11 @@
 		}
 		img {
 			max-width: 80%;
+			height: auto;
 		}
 		.icon (
-			width: 60px;
-			height: 60px;
+			width: 20%;
+			height: auto;
 			display: inline-block;	
 		}
 		h1 {
@@ -31,7 +32,4 @@
 		p {
 			font-family: "Aileron-Regular";
 			font-size: 1.5em;
-			/*font-family: 'Pacifico', cursive; mshabekk
-			/* font-family: 'Sacramento', cursive; mshabek sass
-			/* font-family: 'Copse', serif;
     		}
