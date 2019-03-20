@@ -1,6 +1,6 @@
   		@font-face {
   	 		font-family: "Aileron-Regular", "Sanchez-Regular";
-      			src: url("Aileron-Regular.otf") format("opentype");
+      			src: url("Aileron-Regular.otf") format("opentype"),
         		src: url("Sanchez-Regular.ttf") format("opentype");
 				}
    		body {
