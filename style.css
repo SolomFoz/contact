@@ -1,8 +1,11 @@
   		@font-face {
-  	 		font-family: "Aileron-Regular", "Sanchez-Regular";
-      			src: url("Aileron-Regular.otf") format("opentype"),
+  	 		font-family: "Aileron-Regular";
+      			src: url("Aileron-Regular.otf") format("opentype");
+		}
+		@font-face {
+			font-family: "Sanchez-Regular";
         		src: url("Sanchez-Regular.ttf") format("opentype");
-				}
+		}
    		body {
 			text-align: center;
 		}
