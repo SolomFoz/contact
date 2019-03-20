@@ -9,7 +9,7 @@
    		body {
 			text-align: center;
 		}
-		.icon (
+		a img (
 			max-width: 20%;
 			height: auto;
 			display: inline-block;
