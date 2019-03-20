@@ -9,14 +9,14 @@
    		body {
 			text-align: center;
 		}
+		img .icon (
+			max-width: 20%;
+			height: auto;
+			display: inline-block;
+		}
 		img {
 			max-width: 80%;
 			height: auto;
-		}
-		img .icon (
-			width: 20%;
-			height: auto;
-			display: inline-block;	
 		}
 		h1 {
 			font-family: "Sanchez Regular";
